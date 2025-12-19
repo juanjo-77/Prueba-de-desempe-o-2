@@ -110,6 +110,26 @@ div.hola {
 
 
 /*-----------------------------------------------------*/
+/*-----------FEATURES-----*/
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    color: #000000;
+}
+
+table th{
+    background: #1666807f;
+    padding: 10px;
+    border: 1px solid #00eaff
+}
+
+table td{
+    padding: 10px;
+    border: 1px solid #00eaff;
+}
+
+/*-----------------------------------------------------*/
 
 /* --- BOTONES --- */
 button {
