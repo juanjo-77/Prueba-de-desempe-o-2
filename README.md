@@ -7,3 +7,11 @@ In addition to this we can see the images well distributed, since depending on w
 It is divided into sections which are rectangles to give more dynamism and joy to the page, as well as the animations of both the buttons and the images since if you pass the mouse over it you can see how they change their shape and enlarge. 
 
 All paragraphs and texts are well distributed on the pages since these are the ones that people read first. In addition, at the bottom of the page it has a back to top link designed to make it more different from any other website.
+
+In addition, it also has an advanced navigation system, since it allows you to see between Home and Features, in addition to having a very advanced technology system thanks to its incredible developer.
+
+contact:
+Juan Jose Peña Muñoz
+Tesla
+penamunozjuanjose64@gmail.com
+1042151796
